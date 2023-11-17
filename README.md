@@ -28,7 +28,7 @@ To set up your project with the required npm packages (Express, Mongoose, and bo
 1.Install mongoDB shell as well as compass - follow documentations (https://www.mongodb.com/try/download/shell)
 2.npm init -y
 3.npm i express
-3.npm i mongoose
+4.npm i mongoose
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
