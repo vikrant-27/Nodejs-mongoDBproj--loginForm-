@@ -11,7 +11,7 @@ project-folder
 
 FOR MORE CLARIFICATION (coz i struggled a lot as a beginner XD)
 
-/project-directory
+/project-directory 
 ├── node_modules/         // Created when you run `npm install`
 ├── public/               // Static files (e.g., CSS, client-side JavaScript)
 │   └── style.css         // Example CSS file (optional)
