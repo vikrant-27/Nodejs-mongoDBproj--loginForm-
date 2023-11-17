@@ -2,7 +2,9 @@
 
 make sure to keep your file structure as followed -
 
-project-folder // put all the files inside your project folder
+first create a project folder and then paste the above files as given below :
+
+project-folder 
 |-- server.js
 |-- views
 |   |-- index.html
