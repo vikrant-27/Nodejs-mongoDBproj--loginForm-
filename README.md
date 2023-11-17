@@ -30,5 +30,5 @@ To set up your project with the required npm packages (Express, Mongoose, and bo
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Adding some backend to cv-generator
-basically i'm planning to link  this login page to my previous js project (cv generator)  , i.e by linking a login form to that page in which when a user enters it's login credentials it gets saved in mongodb on hitting the submit button. //code related to the same can be ignored. 
+Adding some backend to (cv-generator) .
+Basically i'm planning to link this login page to my previous js project (cv generator)  , i.e by linking a login form to that page in which when a user enters it's login credentials it gets saved in mongodb on hitting the submit button. //code related to the same can be ignored. 
